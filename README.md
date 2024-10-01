@@ -5,6 +5,7 @@ CORE (Console Output Rendering Environment), an barebones operating system, that
 How to build it yourself:
 1. Download WSL (If on windows), or download a linux virtual machine if you dont already have one
 2. Run WSL, or your linux virtual machine (Dedicated users main linux)
+
 ALL THE STEPS NOW ARE GONNA HAVE TO BE FOLLOWED IN THE LINUX VM/WSL!
 1. Download the source
 2. CD into the source folder
