@@ -20,6 +20,3 @@ ALL THE STEPS NOW ARE GONNA HAVE TO BE FOLLOWED IN THE LINUX VM/WSL!
 Credits:
 1. https://www.youtube.com/watch?v=1rnA6wpF0o4&ab_channel=WriteyourownOperatingSystem (Providing me the boot stuff, using c++)
 2. https://www.gnu.org/software/grub/ (Bootloader)
-
-
-The code is very messy, probably unoptimized too, would be great if anyone would clean it up!
