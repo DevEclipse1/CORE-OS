@@ -14,6 +14,7 @@ all: kernel.bin CORE.iso
 kernel.bin: linker.ld $(OBJECTS)
 	ld -melf_i386 -T $< -o $@ $(OBJECTS)
 	mkdir -p /isofiles/boot
+	cp $@ ./isofiles/boot/$@
 
 iso: kernel.bin
 	mkdir -p /isofiles/boot
